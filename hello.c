@@ -1,5 +1,5 @@
 #include<stdio.h>
-#inclue<conio.h>
+#include<conio.h>
 void main()
 {
  clrscr();
